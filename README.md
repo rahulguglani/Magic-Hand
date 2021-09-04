@@ -13,4 +13,7 @@ it will ask for camera selction to close the window click on it.
 **`feature 5 : `** with all four fingers up left mouse button remain pressed to release that you have to lower down all four fingers   
 **`feature 6 : `** with just pinky finger up for a sec right mouse button single clicks
 
+# handmouse v2
+it has features similar to v1 but also has voice typing feature but it's incomplete rn.
+
 
