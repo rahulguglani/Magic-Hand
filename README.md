@@ -10,6 +10,7 @@ it will ask for camera selction to close the window click on it.
 **`feature 2 : `** with index finger and thumb up simultaneously mouse cursor moves with increased sensitivity  
 **`feature 3 : `** with index finger up and middle finger up for a second single left click happen if distance between fingers was less  
 **`feature 4 : `** with index finger up and middle finger up for a second single left click happen if distance between fingers was more  
-**`feature 5 : `** with all four fingers up left mouse button remain pressed to release that you have to lower down all four fingers 
+**`feature 5 : `** with all four fingers up left mouse button remain pressed to release that you have to lower down all four fingers   
+**`feature 6 : `** with just pinky finger up for a sec right mouse button single clicks
 
 
